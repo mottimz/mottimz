@@ -12,7 +12,7 @@
  * Any use, distribution, or reproduction of this code without prior written consent from
  * Freshweb is strictly prohibited and will be prosecuted to the full extent of the law.
  * 
- * For inquiries regarding permissions, please contact: mottiz@gmail.com
+ * For inquiries regarding permissions, please contact: mottizmz@gmail.com
 
 /* Hebrew Version */
 
@@ -28,4 +28,4 @@
  * כל שימוש, הפצה, או שכפול של קוד זה ללא הסכמה כתובה מראש מ-Freshweb
  * אסור בהחלט ויטופל במלוא חומרת החוק.
  * 
- * לפניות בנושא אישורים, נא ליצור קשר: mottiz@gmail
+ * לפניות בנושא אישורים, נא ליצור קשר: mottimz@gmail
